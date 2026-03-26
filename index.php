@@ -1,5 +1,5 @@
 <?php
-$environmentFile = "environment.txt";
+$environmentFile = "environment.txt"
 $environment = "UNKNOWN";
 
 if (file_exists($environmentFile)) {
